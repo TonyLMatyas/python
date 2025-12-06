@@ -40,3 +40,47 @@ formats = {
 for description, formatted_date in formats.items():
     print(f"{description}: {formatted_date}")
 
+# Backup Variables
+
+# Working Variables
+
+# Custom Variables
+
+# Functions
+########################################
+
+# Display help text
+
+# Print error message & help text
+
+# If needed, make directory
+
+# Initialize files/directories
+
+# Print message with dots
+
+# Display variables
+
+# Arguments
+########################################
+
+# Filter options
+
+# Processing
+################################################################################
+
+# Error Checks
+########################################
+
+# Check for help
+
+# Check for root privilege execution
+
+# Script Start
+########################################
+
+# Process options
+
+# Output
+################################################################################
+
