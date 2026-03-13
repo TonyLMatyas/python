@@ -1,7 +1,10 @@
 #!/usr/bin/python
+
 # comment lines out (like this line you're reading) with "#"
-#===============================================================================
+################################################################################
+
 # print
+################################################################################
 
 # Python 2:
 #   the "print" statement is not a function
@@ -20,8 +23,8 @@ print'no space needed right after "print"'
 
 print
 
-#===============================================================================
 # variables & types
+################################################################################
 
 # Python is completely object oriented
 #   not "statically typed"
@@ -35,8 +38,8 @@ print
 #   floating point numbers
 #   complex numbers
 
-#---------------------------------------
 # define strings
+########################################
 
 # define string: single quotes
 stringsingle='this is a variable with single "quotes"'
@@ -50,8 +53,8 @@ lower='lowercase'
 # define string: uppercase variable name
 UPPER='uppercase'
 
-#---------------------------------------
 # define numbers
+########################################
 
 # define integer
 INT1=1
@@ -62,8 +65,8 @@ FLOAT2=2.0
 # define floating point number: implicitly
 FLOAT3=float(3)
 
-#---------------------------------------
 # print variables
+########################################
 
 print (stringsingle)
 print (stringdouble)
@@ -77,8 +80,8 @@ print (FLOAT3)
 FLOAT3='spam & eggs'
 print (FLOAT3)
 
-#---------------------------------------
 # define variables simultaneously
+########################################
 
 # numbers
 a, b = 3, 4
@@ -94,7 +97,7 @@ print (a,b)
 
 print
 
-#===============================================================================
+################################################################################
 # simple operations
 
 # operations: numbers
@@ -126,8 +129,8 @@ print (helloworld)
 
 print
 
-#===============================================================================
 # if statements
+################################################################################
 
 # Python uses indentation for blocks, instead of curly braces.
 # Both tabs and spaces are supported
